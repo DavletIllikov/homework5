@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    
+}
+
+.section1 {
+    background: url("../img/bg1.jpg");
+    height: 900px;
+    
+}
+
+.content1 {
+    position: absolute;
+    left: 62px;
+    top: 506px;
+}
+
+.sertiz {
+    font-size: 48px;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+   
+}
+
+.text {
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+
+}
+
+.bigtext {
+    display: flex;
+    justify-content: flex-start;
+    border: 1px solid #FFFFFF;
+    
+}
+
+.we {
+    font-size: 54px;
+    color: #F1AD1D;
+    padding: 35px 25px;
+    background: #FFFFFF;
+}
+
+.msd {
+    font-size: 54px;
+    color: #FFFFFF;
+    padding: 35px 42px 31px 22px;
+}
+
+.text1 {
+    color: #333333;
+    text-align: center;
+    padding: 84px 0 29px;
+    font-size: 22px;
+}
+
+.text2 {
+    font-size: 17px;
+    text-align: center;
+}
+
+.line {
+    background: #F1AD1D;
+    margin: 40px auto 102px;
+    width: 61px;
+    height: 4px;
+
+}
+
+.section2 {
+    background: url("../img/bg2.jpg") fixed;
+    background-size: cover;
+    height: 380px;
+    
+}
+
+.content2 {
+    text-align: center;
+    padding: 113px 0 44px;
+    font-size: 22px;
+}
+
+.white {
+    color: #FFFFFF;
+}
+.yellow {
+    color: #F1AD1D;
+}
+
+
+.content2 .line {
+    margin-bottom: 113px;
+}
+
+.text3 {
+    font-size: 22px;
+    color: #333333;
+    text-align: center;
+    padding-top: 102px;
+
+}
+
+.text4 {
+    text-align: center;
+    font-size: 17px;
+    color: #4D4943;
+    margin-top: 39px;
+}
+
+.section3 {
+    background: url("../img/bg3.jpg") fixed;
+    background-size: cover;
+    height: 477px;
+}
+
+.content3 {
+text-align: center;
+font-size: 22px;
+padding-top: 131px;
+}
+
+
+.image {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 150px;
+}
+
+.text5 {
+    color: #333333;
+    font-size: 22px;
+    text-align: center;
+    padding: 117px 0 26px 0;
+}
+
+.text6 {
+    text-align: center;
+    color: #4D4943;
+    font-size: 17px;
+}
+
+.section4 {
+    background: url("../img/bg4.jpg") fixed;
+    background-size: cover;
+    height: 487px;
+}
+
+.content4 {
+    text-align: center;
+    font-size: 22px;
+    padding-top: 98px;
+}
+
+.text7 {
+    font-size: 18px;
+    text-align: center;
+}
+
+.line1 {
+    background: #FFFFFF;
+    width: 282px;
+    height: 4px;
+    margin: 32px auto 90px;
+}
+
+.text8 {
+    padding: 115px 0 38px 0;
+    text-align: center;
+    font-size: 22px;
+    color: #4D4943;
+}
+
+.text9 {
+    padding-bottom: 134px;
+    font-size: 17px;
+    text-align: center;
+    color: #4D4943;
+}
+
